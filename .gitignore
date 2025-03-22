@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+
+# Logs
+*.log
+
+# Environment variables
+.env
+*.ini
+
+# Dependency directories
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.pyo
+*.swp
+.DS_Store
+
+certification/
+certifications/jwt-private.key
+certifications/jwt-public.key
